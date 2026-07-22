@@ -1,4 +1,4 @@
 # first-demo
 This is my first git repository.
 <br>
-Author - Khushi navghare
+Author - Khushi navghare first project 
